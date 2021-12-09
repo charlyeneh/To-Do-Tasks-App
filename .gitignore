@@ -1,0 +1,5 @@
+node_modules/
+
+npx hint .
+npx stylelint "**/*.{css,scss}"
+npx eslint .
