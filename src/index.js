@@ -35,10 +35,10 @@ const toDoTasksArray = [
   {
     description: 'Light out and sleep',
     completed: false,
-    index: 7,
+    index: 7
   }
 ];
- class ToDoList {
+class ToDoList {
   constructor(toDoTasksArray, container) {
     this.toDoTasksArray = toDoTasksArray;
     this.container = document.querySelector(container);
