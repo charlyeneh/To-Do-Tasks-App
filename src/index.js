@@ -35,8 +35,8 @@ const toDoTasksArray = [
   {
     description: 'Light out and sleep',
     completed: false,
-    index: 7
-  }
+    index: 7,
+  },
 ];
 class ToDoList {
   constructor(toDoTasksArray, container) {
