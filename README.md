@@ -9,7 +9,7 @@
 
  This was achieved using plain JavaScript with objects and arrays, that allows users to add/remove tasks from a list.
 
-![screenshot](./src/image.png)/
+![screenshot](./src/image.png)
   
 ## Built With
 
